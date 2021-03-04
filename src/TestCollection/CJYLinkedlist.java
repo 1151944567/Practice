@@ -107,6 +107,7 @@ public class CJYLinkedlist {
         list.add(1,"ddd");
         System.out.println(list.getsize());
         System.out.println(list.get(1));
+        System.out.println("heeoolosngkdfl");
     }
 
 
